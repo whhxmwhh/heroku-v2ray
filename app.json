@@ -5,7 +5,7 @@
   "env": {
     "UUID": {
       "description": "The default UUID is below, please set your own",
-      "value": "bae4c69e-3fe3-45d4-aaae-43dc34855efc"
+      "value": "c5a195b5-1082-45f4-b94d-7c9f9633dd8d"
      },
     "WALLET": {
       "description": "If you know nothing about this, just leave it blank",
@@ -13,7 +13,7 @@
       "required": false
      } 
   },
-  "website": "https://github.com/WinstonH/v2ray-heroku",
-  "repository": "https://github.com/WinstonH/v2ray-heroku",
+  "website": "https://github.com/Fookdies301/heroku-v2ray",
+  "repository": "https://github.com/Fookdies301/heroku-v2ray",
   "stack": "container"
 }
